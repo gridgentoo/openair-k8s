@@ -1,3 +1,7 @@
+# OpenAirInterface on Kubernetes   
+  
+openair-k8s позволяет создавать высококачественные [OCI-compliant](https://www.opencontainers.org/) образы контейнеров для [OpenAirInterface](https://www.openairinterface.org) 4G/5G  (eNB/gNB) and core networks (EPC) и развертывать эти компоненты в OpenShift или других дистрибутивах Kubernetes корпоративного уровня.
+
 # OpenAirInterface on Kubernetes
 
 openair-k8s allows building high-quality [OCI-compliant](https://www.opencontainers.org/) container images for the [OpenAirInterface](https://www.openairinterface.org) 4G/5G radio access (eNB/gNB) and core networks (EPC) and deploying these components on OpenShift or other enterprise-grade Kubernetes distributions.
